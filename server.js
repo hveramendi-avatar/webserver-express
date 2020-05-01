@@ -19,7 +19,7 @@ const port = process.env.PORT || 8080;
 app.get('/', (req, res) => {
 
     res.render('home', {
-        nombre: 'GEEEEEEEEE'
+        nombre: 'GAA'
     });
 });
 //otro path
